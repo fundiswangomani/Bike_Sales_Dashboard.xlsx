@@ -25,8 +25,8 @@ Data Visualization (Charts, Slicers, Dashboards)
 
 Storytelling with Data
 
-**🖼️ Dashboard Preview**
-Bike Sales.png
+## 🖼️ Dashboard Preview
+![Bike Sales Dashboard](BikeSales.png)
 
 Outcome / Insight:
 The dashboard shows that higher-income and middle-aged customers are more likely to purchase bikes. This insight can guide targeted marketing strategies for the retailer.
